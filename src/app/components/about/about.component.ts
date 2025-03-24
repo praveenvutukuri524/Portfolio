@@ -17,12 +17,12 @@ import { CommonModule } from '@angular/common';
           <div class="experience-cards">
             <div class="exp-card">
               <i class="fas fa-code"></i>
-              <h3>10+</h3>
+              <h3>15+</h3>
               <p>Years Experience</p>
             </div>
             <div class="exp-card">
               <i class="fas fa-file-alt"></i>
-              <h3>20+</h3>
+              <h3>20</h3>
               <p>Publications</p>
             </div>
             <div class="exp-card">

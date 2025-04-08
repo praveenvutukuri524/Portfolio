@@ -83,6 +83,13 @@ import { CommonModule } from '@angular/common';
                 <i class="fas fa-external-link-alt"></i> View Publication
               </a>
             </div>
+            <div class="publication-item">
+              <h4>LOINC Code Extraction and End-To-End Integration</h4>
+              <p>Published in questjournals, Dec.2021</p>
+              <a href="https://www.questjournals.org/jealm/papers/v11-i6/11060106.pdf" target="_blank" class="publication-link">
+                <i class="fas fa-external-link-alt"></i> View Publication
+              </a>
+            </div>
           </div>
         </div>
 
